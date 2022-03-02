@@ -1,3 +1,6 @@
+p "To encrypt your message enter 'cipher(string, integer)' where 'string' and integer are a 
+string and number of your choice e.g., cipher('hello world', 5)"
+
   def cipher(string, shift)
     #empty arrays for use in loops below
     ord_array = []
@@ -38,3 +41,7 @@
     p "the final encrypted message is '#{cipher_array.join("")}'"
 
   end
+
+  cipher("this is my string", 8)
+
+ 

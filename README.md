@@ -1,3 +1,3 @@
 # Caesar-Cipher
-This is a basic encryption tool called a Caesar Cipher and was written in Ruby for The Odin Project. Version 1 was written early in the curriculum, and I have since revisited this code to refactor it use as a test case for RSPEC testing. As such, you will also see a full suite of tests in the .rspec folder.
+This is a basic encryption tool called a Caesar Cipher and was written in Ruby for The Odin Project. Version 1 was written early in the curriculum, and I have since revisited this code to refactor it and use as a test case for RSPEC testing. As such, you will also see a full suite of tests in the .rspec folder.
 You can download and run cipher.rb locally if you have Ruby installed, or view online here: https://replit.com/@BenJ8/caesar-cipher#main.rb
